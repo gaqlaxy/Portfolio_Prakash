@@ -1,0 +1,16 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.banner{
+    background-image: url(Images/c1old.png);
+    padding: 250px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img{
+    background-size: cover;
+    
+}
+.skillspadding{
+    padding: 70px 0;
+}
