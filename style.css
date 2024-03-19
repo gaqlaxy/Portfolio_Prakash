@@ -14,3 +14,12 @@ img{
 .skillspadding{
     padding: 70px 0;
 }
+h1 {
+    font-size: 3rem;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    line-height: 5.9rem;
+}
+.char{
+    transform: translateY(115px);
+    transition: transform.5s;
+}
